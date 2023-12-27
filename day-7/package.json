@@ -1,0 +1,13 @@
+{
+    "name": "day-7",
+    "version": "1.0.0",
+    "description": "",
+    "main": "src/index.js",
+    "scripts": {
+        "part1": "node src/part1.js",
+        "part2": "node src/part2.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "type": "module"
+}
