@@ -1,3 +1,5 @@
+// Disclaimer: Prime Java code up ahead
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
